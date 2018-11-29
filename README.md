@@ -30,19 +30,19 @@ DEMO https://noellin.github.io/storebackstage/#/
 其他：表單驗證功能
 
 ### 功能展示
-<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%962.PNG" alt="" width="800">
+<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%962.PNG" alt="" width="720">
 
-<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%96.PNG" alt="" width="800">
+<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%96.PNG" alt="" width="720">
 
-<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%963.PNG" alt="" width="800">
+<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%963.PNG" alt="" width="720">
 
-<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%964.PNG.PNG" alt="" width="800">
+<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%964.PNG.PNG" alt="" width="720">
 
-<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%965.PNG" alt="" width="800">
+<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%965.PNG" alt="" width="720">
 
-<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%966.PNG" alt="" width="800">
+<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%966.PNG" alt="" width="720">
 
-<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%968.PNG" alt="" width="800">
+<img src="https://github.com/noellin/storebackstage/blob/master/%E6%93%B7%E5%8F%968.PNG" alt="" width="720">
 > A Vue.js project
 
 ## Build Setup
