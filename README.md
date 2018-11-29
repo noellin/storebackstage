@@ -1,7 +1,7 @@
 
 # VUE購物網站後台
 DEMO https://noellin.github.io/storebackstage/#/
-
+<br>需要登入才能正常使用<br>
 (放了哈利波特，可是後來前台改作聖誕商店我懶得改了( ･ὢ･ ) )
 ## 功能：
 ### 產品列表
