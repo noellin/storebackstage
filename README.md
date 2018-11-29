@@ -2,6 +2,14 @@
 # VUE購物網站後台
 DEMO https://noellin.github.io/storebackstage/#/
 <br>需要登入才能正常使用( ･ὢ･ )<br>
+## dependencies
+<ul>
+<li><a href="https://www.npmjs.com/package/vue-axios" rel="nofollow">VueAxios</a></li>
+<li><a href="https://github.com/ankurk91/vue-loading-overlay">Vue Loading Overlay</a></li>
+<li><a href="https://github.com/baianat/vee-validate">VeeValidate</a></li>
+  <li><a href="https://router.vuejs.org/zh/">Vue-router</a></li>
+<li><a href="https://vuex.vuejs.org/zh/guide/">Vuex</a></li>
+</ul>
 
 ## 功能：
 ### 產品列表
